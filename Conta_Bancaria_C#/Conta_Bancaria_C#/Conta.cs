@@ -25,11 +25,25 @@ namespace Conta_Bancaria
         }
         public void Deposito(double Valor)
         {
+            if(Valor < 0.0)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write("Digite um valor inválido!"); //proteção da própria classe
+                Console.ResetColor();
+                return; //sai do método 
+            }
             Saldo += Valor;
         }
 
         public void Saque(double Valor)
         {
+            if(Valor < 0.0)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write("Digite um valor válido!");
+                Console.ResetColor();
+                return; //sai do método
+            }
             Saldo -= Valor + 5.00; // Método para realizar um saque, descontando uma taxa fixa de 5.00
         }
 
