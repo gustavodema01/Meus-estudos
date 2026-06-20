@@ -46,7 +46,7 @@ namespace Conta_Bancaria
                     Console.Clear();
                     Console.WriteLine("Entre o número da conta: "+_numeroConta);
                     Console.WriteLine("Entre o titular da conta: "+_titular);
-                    Console.WriteLine("Haverá depósito inicial?(s/n): ");
+                    Console.WriteLine("Haverá depósito inicial?(s/n) ");
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write("Escolha uma opção válida(s/n): ");
                     Console.ResetColor();
