@@ -1,0 +1,7 @@
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\bin\Debug\Médias com treino em poo - C#.exe.config
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\bin\Debug\Médias com treino em poo - C#.exe
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\bin\Debug\Médias com treino em poo - C#.pdb
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\obj\Debug\Médias com treino em poo - C#.csproj.AssemblyReference.cache
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\obj\Debug\Médias com treino em poo - C#.csproj.CoreCompileInputs.cache
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\obj\Debug\Médias com treino em poo - C#.exe
+C:\Users\Gus\OneDrive\Desktop\Listas\Médias com treino em poo - C#\Médias com treino em poo - C#\obj\Debug\Médias com treino em poo - C#.pdb
