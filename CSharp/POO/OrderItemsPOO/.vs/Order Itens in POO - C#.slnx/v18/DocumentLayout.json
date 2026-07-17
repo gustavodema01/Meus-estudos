@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|c:\\users\\gus\\onedrive\\desktop\\listas\\order itens in poo - c#\\order itens in poo - c#\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|solutionrelative:order itens in poo - c#\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|c:\\users\\gus\\onedrive\\desktop\\listas\\order itens in poo - c#\\order itens in poo - c#\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|solutionrelative:order itens in poo - c#\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|c:\\users\\gus\\onedrive\\desktop\\listas\\order itens in poo - c#\\order itens in poo - c#\\order\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|solutionrelative:order itens in poo - c#\\order\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|c:\\users\\gus\\onedrive\\desktop\\listas\\order itens in poo - c#\\order itens in poo - c#\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|solutionrelative:order itens in poo - c#\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|c:\\users\\gus\\onedrive\\desktop\\listas\\order itens in poo - c#\\order itens in poo - c#\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|solutionrelative:order itens in poo - c#\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|c:\\users\\gus\\onedrive\\desktop\\listas\\order itens in poo - c#\\order itens in poo - c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6CDD5-9994-4C34-BB4C-B08580509CBE}|Order Itens in POO - C#\\Order Itens in POO - C#.csproj|solutionrelative:order itens in poo - c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Order\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Order Itens in POO - C#\\Order\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Order\\OrderStatus.cs",
+              "RelativeToolTip": "Order Itens in POO - C#\\Order\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T13:09:31.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "Order Itens in POO - C#\\Product\\Product.cs",
+              "ToolTip": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Product\\Product.cs",
+              "RelativeToolTip": "Order Itens in POO - C#\\Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T13:07:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Order\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Order Itens in POO - C#\\Order\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Order\\OrderItem.cs",
+              "RelativeToolTip": "Order Itens in POO - C#\\Order\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T13:07:16.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "Order Itens in POO - C#\\Order\\Order.cs",
+              "ToolTip": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Order\\Order.cs",
+              "RelativeToolTip": "Order Itens in POO - C#\\Order\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T13:07:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Order Itens in POO - C#\\Client\\Client.cs",
+              "ToolTip": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Client\\Client.cs",
+              "RelativeToolTip": "Order Itens in POO - C#\\Client\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T13:06:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Program.cs",
+              "RelativeDocumentMoniker": "Order Itens in POO - C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Gus\\OneDrive\\Desktop\\Listas\\Order Itens in POO - C#\\Order Itens in POO - C#\\Program.cs",
+              "RelativeToolTip": "Order Itens in POO - C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:59:15.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
