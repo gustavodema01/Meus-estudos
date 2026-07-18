@@ -1,0 +1,7 @@
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\bin\Debug\PostComentariosPOO.exe.config
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\bin\Debug\PostComentariosPOO.exe
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\bin\Debug\PostComentariosPOO.pdb
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\obj\Debug\PostComentariosPOO.csproj.AssemblyReference.cache
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\obj\Debug\PostComentariosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\obj\Debug\PostComentariosPOO.exe
+C:\Users\Gus\OneDrive\Desktop\Listas\CSharp\POO\PostComentariosPOO\PostComentariosPOO\obj\Debug\PostComentariosPOO.pdb
