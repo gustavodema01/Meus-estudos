@@ -25,5 +25,12 @@ namespace Heritage.Entities
                 Balance += amount;
             }
         }
+        public void Loan(double amount)
+        {
+            if(amount<= LoanLimit)
+            {   
+                Balance += amount;
+            }
+        }
     }
 }

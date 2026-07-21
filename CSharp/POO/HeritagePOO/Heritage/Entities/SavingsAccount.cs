@@ -22,5 +22,10 @@ namespace Heritage.Entities
         {
             Balance += Balance * interestRate;
         }
+
+        public override void WithDraw(double amount) //sobreposição do método da superclasse
+        {
+            Balance -= amount;
+        }
     }
 }

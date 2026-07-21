@@ -23,9 +23,9 @@ namespace Heritage.Entities
             Balance = balance;
         }
 
-        public void WithDraw(double amount)
+        public virtual void WithDraw(double amount) //virtual quer dizer que esse método pode ser sobrescrito em outras subclasses
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void Deposit(double amount)
