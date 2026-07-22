@@ -1,0 +1,7 @@
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\bin\Debug\ProductsPOO.exe.config
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\bin\Debug\ProductsPOO.exe
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\bin\Debug\ProductsPOO.pdb
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\obj\Debug\ProductsPOO.csproj.AssemblyReference.cache
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\obj\Debug\ProductsPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\obj\Debug\ProductsPOO.exe
+C:\Users\Gus\OneDrive\Desktop\Listas\ProductsPOO\ProductsPOO\obj\Debug\ProductsPOO.pdb
